@@ -10,4 +10,4 @@
 
 * Please document every change you make to the servers in the private repository. 
 
-* Public documentation about the servers are found at https://cepdnaclk.github.io/sites/servers.
+* Public documentation about the servers is found at https://faq.ce.pdn.ac.lk/network-n-servers/.
